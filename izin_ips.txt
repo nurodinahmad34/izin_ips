@@ -1,2 +1,3 @@
-104.21.34.87 Server_Pribadi lifetime
-172.67.135.91 Client_Utama 2025-12-31
+# Format: IP_ADDRESS NAMA_CLIENT TANGGAL_EXPIRY
+104.21.92.161 Server_Pribadi lifetime
+172.67.135.91 VPS_Utama 2025-12-31
